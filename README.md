@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Michał 👋
 
-<!--
-**rockrobin82/rockrobin82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI-Assisted Software Developer | Product Builder
 
-Here are some ideas to get you started:
+I build practical web and mobile applications using AI-assisted development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+
+🚀 EvoHub
+Fitness and workout tracking application
+Demo: https://evohub.netlify.app
+
+🧠 Balans.app
+Mental wellbeing and personal development platform
+Demo: https://balans-app-ten.vercel.app
+
+🏡 Na Ogrodowej
+Community exchange and neighborhood platform
+Demo: https://apk.wymiana-naogrodowej.pl
+
+🎫 Garden Bellingham
+Event ticketing and reservation platform
+Demo: https://bilety.katarzynabellingham.pl
+
+### Tools I Use
+
+* Cursor AI
+* ChatGPT
+* Claude
+* Supabase
+* Flutter
+* Next.js
+* TypeScript
+* GitHub
+* Vercel
+* Netlify
+
+### Currently Focused On
+
+* AI-assisted software development
+* Product building
+* Workflow automation
+* Modern web and mobile applications
